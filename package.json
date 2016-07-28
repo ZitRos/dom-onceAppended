@@ -1,0 +1,24 @@
+{
+  "name": "dom-once-appended",
+  "version": "1.0.0",
+  "description": "JavaScript ES6 implementation of element's append event handling.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZitRos/dom-onceAppended.git"
+  },
+  "keywords": [
+    "once",
+    "appended",
+    "callback",
+    "element",
+    "append",
+    "handler"
+  ],
+  "author": "ZitRo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZitRos/dom-onceAppended/issues"
+  },
+  "homepage": "https://github.com/ZitRos/dom-onceAppended#readme"
+}
